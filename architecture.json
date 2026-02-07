@@ -1,0 +1,160 @@
+{
+  "book_id": "digital-native-symbolist-class-struggle",
+  "title": "THE MUTE AND THE RESONANT",
+  "tagline": "In a city where meaning is a commodity, one man hears what the powerful have silenced.",
+  "target_words": 70000,
+  "actual_words": 71066,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Commodification of Meaning",
+    "Sensory Class Warfare",
+    "The Ghost in the Corporate Machine",
+    "Archive as Resistance"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Silence of the Symbols",
+      "words": 2950
+    },
+    {
+      "ch": 2,
+      "title": "The Monolith",
+      "words": 2950
+    },
+    {
+      "ch": 3,
+      "title": "The Scream",
+      "words": 2950
+    },
+    {
+      "ch": 4,
+      "title": "The Vault",
+      "words": 2950
+    },
+    {
+      "ch": 5,
+      "title": "The First Glyph",
+      "words": 2950
+    },
+    {
+      "ch": 6,
+      "title": "Corvus Unmasked",
+      "words": 2950
+    },
+    {
+      "ch": 7,
+      "title": "The Stain Fights Back",
+      "words": 2950
+    },
+    {
+      "ch": 8,
+      "title": "The Experiential Layer",
+      "words": 2950
+    },
+    {
+      "ch": 9,
+      "title": "A Whisper in the Grid",
+      "words": 2950
+    },
+    {
+      "ch": 10,
+      "title": "Thorne's Confession",
+      "words": 2950
+    },
+    {
+      "ch": 11,
+      "title": "The Archive Burns",
+      "words": 2950
+    },
+    {
+      "ch": 12,
+      "title": "The Liminal Goes Dark",
+      "words": 2950
+    },
+    {
+      "ch": 13,
+      "title": "The Resonance Cascade",
+      "words": 2950
+    },
+    {
+      "ch": 14,
+      "title": "Hand-Painted Truths",
+      "words": 2950
+    },
+    {
+      "ch": 15,
+      "title": "The Bell Tower's Memory",
+      "words": 2950
+    },
+    {
+      "ch": 16,
+      "title": "The Price of Listening",
+      "words": 2950
+    },
+    {
+      "ch": 17,
+      "title": "The Symbolist's Guild",
+      "words": 2950
+    },
+    {
+      "ch": 18,
+      "title": "A Crack in the Glass",
+      "words": 2950
+    },
+    {
+      "ch": 19,
+      "title": "The Water Remembers",
+      "words": 2950
+    },
+    {
+      "ch": 20,
+      "title": "Broadcast from the Ruins",
+      "words": 2950
+    },
+    {
+      "ch": 21,
+      "title": "The Last Mural",
+      "words": 2950
+    },
+    {
+      "ch": 22,
+      "title": "Not a Void, a Prison",
+      "words": 2950
+    },
+    {
+      "ch": 23,
+      "title": "Echoes Become a Song",
+      "words": 2950
+    },
+    {
+      "ch": 24,
+      "title": "The City Learns to Listen",
+      "words": 2966
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character discovers a forgotten public artwork (a mosaic, a mural, a sculpture) that 'wakes up' and communicates a hidden truth about the neighborhood's history.",
+      "Create a profile for a 'Data Theologian'—what do they believe, what tools do they use, and who hires them?",
+      "Draft a message from 'The Liminal' forum, using a mundane list or notice to encode a secret call to action.",
+      "Imagine a 'resonant relic' not mentioned in the text. Describe its appearance, where it was found, and what silent message it holds."
+    ],
+    "technical": [
+      "Design a conceptual 'Symbolist Toolkit': a set of open-source, low-tech tools (software or physical) for capturing, analyzing, or amplifying residual meaning in objects and places.",
+      "Propose a 'Resonance Map' of a city block: a method for visually layering the historical, social, and corporate symbolic meanings onto a standard street map."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "William Gibson",
+      "Ursula K. Le Guin",
+      "Walter Benjamin",
+      "Katherine Hayles"
+    ]
+  },
+  "cover_prompt": "A young man with a data-ghost shimmering in his tear duct, his ears plugged with ornate, corporate-issued sonic dampeners, reaches out to touch a decaying concrete wall from which vibrant, forbidden symbols bleed like digital moss, in the rain-slicked, neon-drenched alley of a towering megacity. The scene is dense with layered meaning: glitching holographic advertisements for \"Clarity™\" and \"Semantic Security\" cast reflections on puddles, while in the shadows, hand-painted resonant glyphs—the archive of the mute—pulse with a faint, warm light on grimy walls, creating a stark visual war between sterile corporate light and organic, resistant glow. In the atmospheric style of Simon Stålenhag and Moebius, blending melancholic futurism with intricate, symbolic detail. Book cover framing, a centered and intimate composition looking up at the protagonist from a low angle, emphasizing the oppressive scale of the city against his solitary act of connection. Cinematic chiaroscuro lighting with stark contrasts between the cold, electric blues and purples of the city and the warm, ethereal golds and ambers emanating from the resonant symbols. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
