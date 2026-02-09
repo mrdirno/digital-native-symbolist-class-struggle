@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 The first thing you learn is the silence. Not the absence of sound—the city is a constant, wet roar—but the silence of the symbols. They stop talking to you.
@@ -75,6 +77,8 @@ Miro stood alone in the belfry, the envelope heavy in his hand. He looked out th
 The silence around him deepened. But now it was a different kind of silence. The silence before a word is spoken.
 
 ---
+
+# Chapter 2
 
 ## CHAPTER 2
 
@@ -167,6 +171,8 @@ The elevator opened directly into the penthouse.
 And the room screamed.
 
 ---
+
+# Chapter 3
 
 ## CHAPTER 3
 
